@@ -7,5 +7,5 @@
   C-->yes-->W[WORKS]
   C-->no-->N[DON'T]
   W-->F(STOP)
-  W-->F
+  N-->F
 ```
